@@ -1,3 +1,7 @@
+# Rectangles with Backbone
+
+## Usage
+
 ```
 git clone
 npm i
