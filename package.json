@@ -1,0 +1,24 @@
+{
+  "name": "rectangles_with_backbone",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r3nya/rectangles_with_backbone.git"
+  },
+  "keywords": [
+    "backbone",
+    "canvas"
+  ],
+  "author": "Andrew M.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r3nya/rectangles_with_backbone/issues"
+  },
+  "dependencies": {
+    "babel": "^5.6.14",
+    "gulp": "^3.9.0",
+    "gulp-jade": "^1.0.1",
+    "gulp-open": "^0.3.2"
+  }
+}

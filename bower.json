@@ -1,0 +1,20 @@
+{
+  "name": "rectangles_with_backbone",
+  "version": "0.0.0",
+  "homepage": "https://github.com/r3nya/rectangles_with_backbone",
+  "authors": [
+    "Andrew M. <me@r3nya.ru>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "backbone": "~1.2.1"
+  }
+}
